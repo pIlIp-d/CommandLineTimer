@@ -1,6 +1,8 @@
 # CommandLineTimer
 A simple timer script with visual alarm.
 
+(Tested on Linux with Wayland)
+
 # Installation
 
 Fist of all Download the Script.
